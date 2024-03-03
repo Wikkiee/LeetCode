@@ -33,8 +33,8 @@ class Solution {
                     res[i] = map.get(score[i]);
         }
         return res;
-
-       
+        
+        
 //         // An array to store scores and their original indices
 //         int[][] scoreWithIndex = new int[score.length][2];
 //         for (int i = 0; i < score.length; i++) {
@@ -63,14 +63,18 @@ class Solution {
 //         }
 
 //         return res;
-
-
-
-
-
-
-
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
     }
-    
 }
