@@ -17,7 +17,6 @@ class Solution {
                 
             }
         }
-        System.out.println("lines : "+lines+" counter : "+counter + " lc : "+lc);
         return new int[]{lines,counter};
     }
 }
